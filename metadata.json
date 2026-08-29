@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Fine Dining",
+  "description": "Luxury fine dining restaurant demo with curated tasting menus, integrated real-time table reservations, smooth transitions, and Google Maps location.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
